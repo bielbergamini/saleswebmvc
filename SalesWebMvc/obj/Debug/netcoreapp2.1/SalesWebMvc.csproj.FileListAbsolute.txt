@@ -14,6 +14,7 @@ C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreap
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.sourcelink.json
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
 C:\Users\gabri\OneDrive\webC#project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache

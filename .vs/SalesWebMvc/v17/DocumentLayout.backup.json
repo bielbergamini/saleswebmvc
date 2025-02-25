@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\gabri\\onedrive\\webc#project\\saleswebmvc\\saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\gabri\\onedrive\\webc#project\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\gabri\\onedrive\\webc#project\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{518CA422-ED54-4DCF-96F8-48ABF57FAEED}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +34,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.CodeGeneration.targets",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAawI0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-25T12:55:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:55:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:53:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\webC#project\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
